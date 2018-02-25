@@ -1,5 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_cnt =9
 let g:netrw_dirhist_1='/opt/linux/Linux-at91/linux-at91/arch/arm/boot'
 let g:netrw_dirhist_2='/opt/linux/Linux-at91/linux-at91/arch/arm/boot/dts'
 let g:netrw_dirhist_3='/opt/linux/Linux-at91/linux-at91/arch/arm/boot'
@@ -8,3 +8,4 @@ let g:netrw_dirhist_5='/home/linux/wkdir/src/DataAcquisitionSystem/src'
 let g:netrw_dirhist_6='/home/linux/wkdir/src/DataAcquisitionSystem'
 let g:netrw_dirhist_7='/home/linux/wkdir/src/DataAcquisitionSystem/src'
 let g:netrw_dirhist_8='/home/linux/wkdir/src/DataAcquisitionSystem'
+let g:netrw_dirhist_9='/home/linux/wkdir/src/lib/libfastcommon/src'
