@@ -15,4 +15,7 @@ git clone https://github.com/scrooloose/nerdtree.git
 
 git clone --depth=1 https://github.com/vim-syntastic/syntastic.git
 
+git clone https://github.com/brookhong/cscope.vim.git
+
+apt-get install cscope
 
