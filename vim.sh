@@ -19,3 +19,4 @@ git clone https://github.com/brookhong/cscope.vim.git
 
 apt-get install cscope
 
+apt-get install ctags
