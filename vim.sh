@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#enviroment
 mkdir -p ~/.vim/autoload ~/.vim/bundle && \
 	curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
 
@@ -7,15 +7,20 @@ cd ~/.vim/bundle
 
 git clone https://github.com/ervandew/supertab.git
 
+#auto-pairs
 git clone git://github.com/jiangmiao/auto-pairs.git
 
 git clone https://github.com/scrooloose/nerdcommenter.git
-
+#nerdtree
 git clone https://github.com/scrooloose/nerdtree.git
 
 git clone --depth=1 https://github.com/vim-syntastic/syntastic.git
 
+#cscope
+apt-get install cscope
 git clone https://github.com/brookhong/cscope.vim.git
 
-apt-get install cscope
+#SrcExpl 	
+git clone https://github.com/wesleyche/SrcExpl.git
 
+cd -
