@@ -138,3 +138,6 @@ let g:ctrlp_custom_ignore = {
 "" // Set "<F4>" key for displaying the next definition in the jump list 
 "let g:SrcExpl_nextDefKey = "<F4>" 
 "
+nmap <C-n> :cnext<CR>
+nmap <C-p> :cprev<CR>
+
