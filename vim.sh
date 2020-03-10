@@ -27,9 +27,8 @@ git clone --depth=1 https://github.com/vim-syntastic/syntastic.git
 
 #cscope
 apt-get install cscope
-gib clone https://github.com/chazy/cscope_maps.git
+git clone https://github.com/chazy/cscope_maps.git
 git clone https://github.com/brookhong/cscope.vim.git
-
 #SrcExpl 	
 git clone https://github.com/wesleyche/SrcExpl.git
 
